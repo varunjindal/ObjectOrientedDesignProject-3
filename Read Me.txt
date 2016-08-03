@@ -1,0 +1,8 @@
+Run.bat
+.\x64\Debug\ParallelDependencyExecutive.exe *.h *.cpp ./ParallelDependencyExecutive/Inputs/ 3
+
+First 2 arguments are patterns
+Last Argument is number of threads
+Second Last Argument is Directory
+
+If no. of threads > 5 : I Have limited it to 5.

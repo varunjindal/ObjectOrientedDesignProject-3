@@ -1,0 +1,15 @@
+Key: A		Type: class		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileA.h		name ::GNS
+Key: A		Type: class		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileA.cpp		name ::GNS
+Key: globalLambda		Type: Lambda		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\Nested\FileC.h		name ::globalLambda
+Key: B		Type: namespace		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileB.h		name ::GNS
+Key: globalFuncB		Type: Global Function		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileB.h		name ::B
+Key: methodB		Type: Global Function		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileB.h		name ::Bstruct
+Key: DC		Type: class		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\Nested\FileD.h		name ::GNS
+Key: DC		Type: class		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\Nested\FileD.cpp		name ::GNS
+Key: myVector		Type: typedef		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileB.h		name ::B
+Key: Bstruct		Type: struct		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileB.h		name ::B
+Key: methodA		Type: Member Function		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\\FileA.cpp		name ::GNS
+Key: C		Type: class		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\Nested\FileC.h		name ::GNS
+Key: D		Type: struct		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\Nested\FileD.h		name ::GNS
+Key: getVector		Type: Member Function		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\Nested\FileC.cpp		name ::GNS
+Key: methodDC		Type: Member Function		file ::C:\Users\Varun\Desktop\Project3\ParallelDependencyExecutive\Inputs\Nested\FileD.cpp		name ::GNS

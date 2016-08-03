@@ -1,0 +1,12 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/ignore:'
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Utilities.cpp
+  TypeTable.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  FileSystem.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\Users\Varun\Desktop\Project3\x64\Debug\Parser.lib
